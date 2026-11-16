@@ -38,11 +38,11 @@ Sistema de linha de comando (CLI) desenvolvido exclusivamente em **linguagem C p
 
 ## 🚀 Como Compilar e Executar
 
-1. Abra o terminal na pasta raiz do projeto onde se encontra o arquivo `biblioteca.c`.
+1. Abra o terminal na pasta raiz do projeto onde se encontra o arquivo `sistema biblioteca.c`.
 2. Compile o código-fonte executando:
 
 ```bash
-gcc biblioteca.c -o biblioteca -Wall
+gcc sistema biblioteca.c -o sistema biblioteca -Wall
 ```
 
 3. Execute o programa gerado:
@@ -50,13 +50,13 @@ gcc biblioteca.c -o biblioteca -Wall
 * **Linux / macOS:**
 
 ```bash
-./biblioteca
+./sistema biblioteca
 ```
 
 * **Windows (CMD / PowerShell):**
 
 ```cmd
-biblioteca.exe
+sistema biblioteca.exe
 ```
 
 > **Nota:** Na primeira execução, caso os arquivos de dados ainda não existam, o sistema iniciará com os registros vazios e criará os arquivos `.txt` automaticamente assim que o primeiro cadastro for concluído.
@@ -139,7 +139,7 @@ A cada operação de escrita (cadastro, empréstimo, devolução ou renovação)
 ## 📂 Estrutura de Arquivos
 
 ```text
-├── biblioteca.c               # Código-fonte completo do sistema
+├── sistema biblioteca.c               # Código-fonte completo do sistema
 ├── README.md                  # Documentação e manual do usuário
 ├── livros.txt                 # Base de dados de livros (gerado automaticamente)
 ├── usuarios.txt               # Base de dados de usuários (gerado automaticamente)
