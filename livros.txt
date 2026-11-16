@@ -1,0 +1,7 @@
+6
+101;Linguagem C Completa e Descomplicada;Andre Backes;Elsevier;2019;3;disponivel;12
+102;Codigo Limpo;Robert C. Martin;Alta Books;2009;0;emprestado;25
+103;Estruturas de Dados e Algoritmos em C;Adam Drozdek;Cengage Learning;2016;2;disponivel;8
+104;O Mito de Sisifo;Albert Camus;Record;2018;4;disponivel;19
+105;Os Irmaos Karamazov;Fiodor Dostoievski;Editora 34;2008;1;disponivel;15
+106;Arquitetura Limpa;Robert C. Martin;Alta Books;2019;2;disponivel;5
